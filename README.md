@@ -6,7 +6,7 @@
 
 You Can Easily Use Our Tool Without Any Error
 
-#Commands Are:-
+# Commands (termux) Are:-
 
 git clone https://github.com/Malik332/REDIRECT
 
@@ -27,4 +27,6 @@ bash Virus.sh
 # Enjoy It...
 
 ### Contact us..
+[![Instagram](https://img.shields.io/badge/Instagram-malik__atiquz__.zaman-blue)](www.instagram.com/malik_atiquz_.zaman)
+
 
