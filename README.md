@@ -8,20 +8,21 @@ You Can Easily Use Our Tool Without Any Error
 
 # Commands (termux) Are:-
 
-git clone https://github.com/Malik332/REDIRECT
+>git clone https://github.com/Malik332/REDIRECT
 
-cd REDIRECT
+>cd REDIRECT
 
-unzip VirusX5.zip
+>unzip VirusX5.zip
 
-chmod +x *
+>chmod +x *
 
-bash install.sh (It will install all tool that required)...
+>bash install.sh (It will install all tool that required)...
 
-pip2 install -r requirements.txt
+>pip2 install -r requirements.txt
 
-bash Virus.sh
-
+>bash Virus.sh
+# Disclaimer
+> I am not responsible for any damages caused by it
 
 
 # Enjoy It...
