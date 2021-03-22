@@ -1,11 +1,12 @@
 # REDIRECT
 # Author
 > Malik Atiquz zaman
-The Most Powerful And First Fake Page Redirecting Tool
+
+>The Most Powerful And First Fake Page Redirecting Tool
 
 You Can Easily Use Our Tool Without Any Error
 
-Commands Are:-
+#Commands Are:-
 
 git clone https://github.com/Malik332/REDIRECT
 
@@ -23,4 +24,7 @@ bash Virus.sh
 
 
 
-Enjoy It...
+# Enjoy It...
+
+### Contact us..
+
