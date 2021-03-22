@@ -12,7 +12,7 @@ You Can Easily Use Our Tool Without Any Error
 
 >cd REDIRECT
 
->unzip VirusX5.zip
+>unzip VirusX.zip
 
 >chmod +x *
 
